@@ -1,0 +1,31 @@
+.ui.borderless.container.menu.topmenu {
+  box-shadow: none;
+  border: none;
+  color: #1c1d1d;
+}
+
+.trending-title-color {
+  color: #231f20;
+}
+
+.ui.borderless.menu.middlemenu {
+  box-shadow: none;
+  border:none;
+  text-decoration: underline;
+  color: #231f20;
+}
+
+
+
+.middlebody {
+  color: #231f20;
+}
+
+.footer-background {
+  background-color: #f5f3e9;
+  color: #231f20;
+}
+
+.icon-color {
+  color: #00b6cc;
+}
